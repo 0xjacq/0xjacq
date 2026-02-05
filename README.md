@@ -11,7 +11,7 @@ Software engineer turned agent manager.
 
 ## Current Focus
 
-- **Market making algorithms** — Building automated trading strategies and liquidity provision systems
+- **Market making algorithms** (closed source) — Building automated trading strategies and liquidity provision systems
 - **DeFi infrastructure** — Real-time monitoring and analytics for decentralized protocols
 - **AI-augmented development** — Exploring cognitive extension through LLM tooling
 
