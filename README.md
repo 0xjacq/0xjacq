@@ -45,9 +45,6 @@ GPU-accelerated video-to-text conversion using PyTorch and Whisper.
 
 → [More at jacqblog.vercel.app](https://jacqblog.vercel.app)
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/0xjacq)
 
 ## Connect
 
