@@ -2,7 +2,12 @@
 
 Software engineer turned agent manager.
 
-[@jacq_capital](https://twitter.com/jacq_capital) • [jacqblog.vercel.app](https://jacqblog.vercel.app)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
 ## Current Focus
 
@@ -39,6 +44,16 @@ GPU-accelerated video-to-text conversion using PyTorch and Whisper.
 - [The Dopamine Series Part 1: The Learning Algorithm Hidden in Your Brain](https://jacqblog.vercel.app/biohacking/dopamine-learning-algorithm) — The algorithm that powers AlphaGo has been running in your brainstem for millions of years
 
 → [More at jacqblog.vercel.app](https://jacqblog.vercel.app)
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/0xjacq)
+
+## Connect
+
+[![Twitter](https://img.shields.io/badge/-@jacq__capital-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jacq_capital)
+[![Blog](https://img.shields.io/badge/-jacqblog-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://jacqblog.vercel.app)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/0xjacq)
 
 ---
 
