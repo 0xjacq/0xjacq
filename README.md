@@ -27,7 +27,8 @@ Real-time wallet tracking and leaderboard analysis for DeFi traders via Telegram
 
 ## Recent Posts
 
-- [The Dopamine Series Part 1: The Learning Algorithm Hidden in Your Brain](https://jacqblog.vercel.app/biohacking/dopamine-learning-algorithm) — The algorithm that powers AlphaGo has been running in your brainstem for millions of years
+- [The Dopamine Series Part 1: The Learning Algorithm Hidden in Your Brain](https://jacqblog.vercel.app/biohacking/dopamine-learning-algorithm)
+- [EqMac pwned?](https://jacqblog.vercel.app/security/eqmac-security-analysis)
 
 
 ## Connect
