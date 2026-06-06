@@ -2,8 +2,6 @@
 
 Agent manager.
 
-Docker Claude
-
 ## Current Focus
 
 - AI agent systems — workflows, skills, and proxy layers for coding agents
