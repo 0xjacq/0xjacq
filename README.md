@@ -2,41 +2,38 @@
 
 Agent manager.
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+Docker Claude
 
 ## Current Focus
 
-- **Market making algorithms** (closed source) — Building automated trading strategies and liquidity provision systems
-- **DeFi infrastructure** — Real-time monitoring and analytics for decentralized protocols
+- AI agent systems — workflows, skills, and proxy layers for coding agents
+- Knowledge and publishing infrastructure — LLM-native research, writing, and wiki pipelines
+- Deployment tooling — CLI-first automation for shipping and operating software
 
 ## Work
 
-**[VaultMonitor](https://github.com/0xjacq/VaultMonitor)** — Real-time DeFi monitoring platform
-Platform-based protocol tracking for Aave, Polymarket, and more. Telegram alerts, flexible rule engine, web dashboard.
-`TypeScript` `Docker` `Blockchain` `Telegram Bot`
+**[jacqblog](https://github.com/0xjacq/jacqblog)** — LLM-native publishing system for human-arbitrated writing, typed content, and multi-channel distribution.
 
-**[serversguru-deploy](https://www.npmjs.com/package/serversguru-deploy)** — Autonomous VPS deployment CLI
-API-based VPS management with SSH provisioning. Full server lifecycle from creation to Docker/Nginx/SSL setup.
-`TypeScript` `CLI` `DevOps` `SSH`
+**[Agenpedia](https://github.com/0xjacq/Agenpedia)** — Markdown-first wiki template for agent-driven ingestion, synthesis, and reusable knowledge workflows.
 
-**[HLGOBOT](https://github.com/0xjacq/HLGOBOT)** — Hyperliquid wallet analytics
-Real-time wallet tracking and leaderboard analysis for DeFi traders via Telegram.
-`Golang` `DeFi` `Analytics`
+**[skills](https://github.com/0xjacq/skills)** — Open collection of reusable agent skills for Claude Code, Codex, Gemini CLI, OpenCode, Kilo, and Pi.
 
+**[opencode-go-reverse-proxy](https://github.com/0xjacq/opencode-go-reverse-proxy)** — Reverse proxy that routes Claude Code and other coding agents through Opencode Go with model-aware translation.
+
+**[kilo-mlx-bridge](https://github.com/0xjacq/kilo-mlx-bridge)** — Bridge that lets Kilo Code run local MLX models on Apple Silicon by proxying model identity and unsupported parameters.
+
+**[serversguru-deploy](https://github.com/0xjacq/serversguru-deploy)** — Autonomous VPS deployment CLI for provisioning servers, Docker, Nginx, and SSL through API plus SSH workflows.
 
 ## Recent Posts
 
-- [The Dopamine Series Part 1: The Learning Algorithm Hidden in Your Brain](https://jacqblog.vercel.app/biohacking/dopamine-learning-algorithm)
-- [EqMac pwned?](https://jacqblog.vercel.app/security/eqmac-security-analysis)
-
+- [Stop Learning Claude Code, NOW](https://jacqblog.vercel.app/ai/stop-learning-claude-code)
+- [The Gain Stage: How LLMs Amplify Your Thinking](https://jacqblog.vercel.app/ai/signal-amplifier)
+- [Anatomy of a macOS Software Protection: eqMac Case Study](https://jacqblog.vercel.app/security/eqmac-security-analysis)
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@jacq__capital-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jacq_capital)
-[![Blog](https://img.shields.io/badge/-jacqblog-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://jacqblog.vercel.app)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/0xjacq)
+- [Twitter](https://twitter.com/jacq_capital)
+- [Blog](https://jacqblog.vercel.app)
+- [GitHub](https://github.com/0xjacq)
 
----
-
-*Fighting entropy with FLOPS*
+Fighting entropy with FLOPS
